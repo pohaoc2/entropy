@@ -1,4 +1,6 @@
 # entropy
+## Test CI
+
 ## An example of directory structure for testing
 
 You can run the tests in the `entropy/tests` directory with:
